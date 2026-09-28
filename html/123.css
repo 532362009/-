@@ -8,3 +8,26 @@ table img {
   background-color: red;
   width: 200px;
 }
+
+.maodie {
+  background-color: tan;
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 15px;
+}
+
+.img-container {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.img-text {
+  position: absolute;
+  top: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+}
