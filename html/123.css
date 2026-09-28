@@ -1,0 +1,10 @@
+table img {
+  width: 325px;
+  height: 325px;
+  object-fit: cover;
+}
+
+.redD {
+  background-color: red;
+  width: 200px;
+}
